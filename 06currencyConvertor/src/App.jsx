@@ -74,7 +74,7 @@ function App() {
                             />
                         </div>
                         <button type="submit" className="w-full bg-blue-600 text-white px-4 py-3 rounded-lg">
-                            <p>{String(from).toUpperCase()} to {String(to).toUpperCase()}</p>
+                            <p>Convert {String(from).toUpperCase()} to {String(to).toUpperCase()}</p>
                         </button>
                     </form>
                 </div>
